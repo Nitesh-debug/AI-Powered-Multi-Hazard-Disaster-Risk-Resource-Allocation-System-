@@ -1,0 +1,27 @@
+metric,value
+total_candidate_event_records,0
+jammu_kashmir_event_records,0
+project_district_event_records,0
+earliest_event_date,
+latest_event_date,
+missing_event_dates_in_inventory,0
+duplicate_event_ids,0
+duplicate_event_date_station_combinations,0
+missing_district_values,0
+missing_station_values,0
+missing_wind_speed_values,0
+missing_gust_values,0
+missing_event_type_values,0
+source_registry_rows,8
+noaa_jk_bbox_indian_station_metadata_records,15
+event_types_observed_in_sources,"cyclone; severe weather; wind observation; reanalysis"
+official_historical_jk_windstorm_event_table_found,No
+validated_observation_source_available,Yes
+synthetic_records_created,No
+weather_derived_labels_created,No
+flood_files_modified,No
+landslide_files_modified,No
+heatwave_files_modified,No
+coldwave_files_modified,No
+weather_files_modified,No
+ml_models_trained,No

@@ -1,0 +1,15 @@
+.git
+.github
+.venv
+__pycache__
+**/__pycache__
+frontend/node_modules
+frontend/dist
+data/raw
+data/processed
+data/development/model_ready
+data/development/phase7_synthetic_development_labels.csv
+models/development/phase7d
+results
+*.ipynb
+tests

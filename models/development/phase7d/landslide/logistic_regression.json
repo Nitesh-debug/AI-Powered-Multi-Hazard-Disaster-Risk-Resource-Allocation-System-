@@ -1,0 +1,213 @@
+{
+  "created_at_utc": "2026-09-25T17:35:10.069517+00:00",
+  "dataset_path": "data/development/model_ready/phase7c_synthetic_landslide_dev_v1.csv.gz",
+  "dataset_sha256": "d8e1936cac26329019ceaaf943a76b0dc315764781209c1b39e2ce96890fc05e",
+  "dataset_version": "phase7c_v1",
+  "experiment_id": "phase7d_v1_landslide_logistic_regression",
+  "feature_columns": [
+    "precipitation_daily_sum",
+    "rain_daily_sum",
+    "snowfall_daily_sum",
+    "temperature_2m_daily_mean",
+    "temperature_2m_daily_min",
+    "temperature_2m_daily_max",
+    "relative_humidity_2m_daily_mean",
+    "relative_humidity_2m_daily_max",
+    "wind_speed_10m_daily_mean",
+    "wind_speed_10m_daily_max",
+    "wind_gusts_10m_daily_max",
+    "soil_moisture_0_to_7cm_daily_mean",
+    "soil_moisture_7_to_28cm_daily_mean",
+    "soil_moisture_28_to_100cm_daily_mean",
+    "soil_temperature_0_to_7cm_daily_mean",
+    "soil_temperature_7_to_28cm_daily_mean",
+    "soil_temperature_28_to_100cm_daily_mean",
+    "snow_depth_end_of_day",
+    "precipitation_3h_end_of_day",
+    "precipitation_6h_end_of_day",
+    "precipitation_12h_end_of_day",
+    "precipitation_24h_end_of_day",
+    "precipitation_3d_end_of_day",
+    "precipitation_7d_end_of_day",
+    "rain_3h_end_of_day",
+    "rain_6h_end_of_day",
+    "rain_12h_end_of_day",
+    "rain_24h_end_of_day",
+    "rain_3d_end_of_day",
+    "rain_7d_end_of_day",
+    "snowfall_24h_end_of_day",
+    "snowfall_3d_end_of_day",
+    "snowfall_7d_end_of_day",
+    "snow_depth_change_24h_end_of_day",
+    "temperature_mean_6h_daily_mean",
+    "temperature_mean_12h_daily_mean",
+    "temperature_mean_24h_daily_mean",
+    "temperature_min_24h_daily_min",
+    "temperature_max_24h_daily_max",
+    "temperature_min_3d_daily_min",
+    "temperature_max_3d_daily_max",
+    "humidity_mean_6h_daily_mean",
+    "humidity_mean_12h_daily_mean",
+    "humidity_mean_24h_daily_mean",
+    "humidity_max_24h_daily_max",
+    "wind_speed_mean_6h_daily_mean",
+    "wind_speed_mean_24h_daily_mean",
+    "wind_speed_max_24h_daily_max",
+    "wind_gust_max_24h_daily_max",
+    "wind_gust_max_3d_daily_max",
+    "soil_moisture_0_7cm_mean_24h_daily_mean",
+    "soil_moisture_0_7cm_lag_24h_end_of_day",
+    "soil_moisture_0_7cm_change_24h_end_of_day",
+    "soil_moisture_7_28cm_mean_24h_daily_mean",
+    "soil_moisture_7_28cm_lag_24h_end_of_day",
+    "soil_moisture_7_28cm_change_24h_end_of_day",
+    "soil_moisture_28_100cm_mean_24h_daily_mean",
+    "soil_moisture_28_100cm_lag_24h_end_of_day",
+    "soil_moisture_28_100cm_change_24h_end_of_day",
+    "soil_temperature_0_7cm_mean_24h_daily_mean",
+    "soil_temperature_7_28cm_mean_24h_daily_mean",
+    "soil_temperature_28_100cm_mean_24h_daily_mean",
+    "precipitation_lag_1h_end_of_day",
+    "precipitation_lag_3h_end_of_day",
+    "precipitation_lag_6h_end_of_day",
+    "precipitation_lag_24h_end_of_day",
+    "temperature_lag_24h_end_of_day",
+    "weather_code_mode"
+  ],
+  "feature_count": 68,
+  "feature_schema_version": "phase5_68_shifted_weather_v1",
+  "hazard": "landslide",
+  "imbalance_strategy": "balanced class_weight; standardized predictors",
+  "label_scope": "SYNTHETIC_DEVELOPMENT_ONLY",
+  "label_version": "phase7a_v1",
+  "model_path": "models/development/phase7d/landslide/logistic_regression.joblib",
+  "model_sha256": "c119ffc9bed0e9de38d5f99a1b06935b707764a203ff95f89af42288c33e852b",
+  "model_size_bytes": 3565,
+  "parameters": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "max_iter": 2000,
+    "random_state": 42,
+    "scaler": "StandardScaler",
+    "solver": "lbfgs"
+  },
+  "random_seed": 42,
+  "software": {
+    "joblib": "1.6.0",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "python": "3.12.14",
+    "scikit_learn": "1.9.1",
+    "scipy": "1.18.1"
+  },
+  "status": "success",
+  "target": "synthetic_landslide_dev_v1",
+  "test_data_accessed": false,
+  "test_metrics": null,
+  "threshold": 0.5,
+  "top_features": [
+    {
+      "feature": "soil_moisture_7_to_28cm_daily_mean",
+      "importance": 7.13093616899231,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "temperature_2m_daily_mean",
+      "importance": 6.7974028863971325,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "relative_humidity_2m_daily_mean",
+      "importance": 5.060695871032269,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "snowfall_3d_end_of_day",
+      "importance": 5.026900090292673,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_temperature_7_28cm_mean_24h_daily_mean",
+      "importance": 4.953571203600695,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_moisture_7_28cm_lag_24h_end_of_day",
+      "importance": 4.680435039264083,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_moisture_7_28cm_mean_24h_daily_mean",
+      "importance": 4.602540045182399,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_temperature_7_to_28cm_daily_mean",
+      "importance": 4.207650054619881,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "humidity_mean_12h_daily_mean",
+      "importance": 3.320893400777047,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "temperature_lag_24h_end_of_day",
+      "importance": 3.1609350055468424,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_moisture_0_7cm_lag_24h_end_of_day",
+      "importance": 2.969979720205744,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "humidity_mean_6h_daily_mean",
+      "importance": 2.8946259961260377,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_moisture_0_7cm_mean_24h_daily_mean",
+      "importance": 2.8596937626715064,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "soil_moisture_0_to_7cm_daily_mean",
+      "importance": 2.529099257178201,
+      "method": "absolute standardized logistic coefficient"
+    },
+    {
+      "feature": "temperature_min_3d_daily_min",
+      "importance": 2.4634354157560017,
+      "method": "absolute standardized logistic coefficient"
+    }
+  ],
+  "train_period": {
+    "end": "2021-12-31",
+    "start": "2020-01-08"
+  },
+  "train_positives": 64,
+  "train_rows": 14480,
+  "training_seconds": 0.3252526000014768,
+  "validation_metrics": {
+    "brier_score": 0.12048561183365021,
+    "f1": 0.03319502074688797,
+    "false_alert_rate": 0.15864061640066043,
+    "false_negative": 12,
+    "false_positive": 1153,
+    "pr_auc_average_precision": 0.02491093192969888,
+    "precision": 0.017050298380221655,
+    "recall": 0.625,
+    "roc_auc": 0.8030450261419922,
+    "threshold": 0.5,
+    "true_negative": 6115,
+    "true_positive": 20
+  },
+  "validation_period": {
+    "end": "2022-12-31",
+    "start": "2022-01-01"
+  },
+  "validation_positives": 32,
+  "validation_rows": 7300,
+  "warnings": []
+}

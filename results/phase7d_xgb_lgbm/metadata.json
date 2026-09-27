@@ -1,0 +1,20 @@
+{
+  "experiment": "phase7d_xgb_lgbm_v1",
+  "algorithms": [
+    "XGBoost",
+    "LightGBM"
+  ],
+  "hazards": [
+    "coldwave",
+    "flood",
+    "heavy_rain",
+    "landslide",
+    "heatwave",
+    "windstorm"
+  ],
+  "feature_count": 68,
+  "test_split_used": false,
+  "synthetic_labels": true,
+  "existing_phase7d_7e_artifacts_modified": false,
+  "warning": "Metrics evaluate synthetic development labels and do not establish real-world disaster prediction skill."
+}

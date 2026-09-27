@@ -1,0 +1,6 @@
+disaster_type,event_count,verified_event_count,district_count,districts,date_start,date_end,source_count,source_ids,source_quality,suitable_for_ml,limitations
+Coldwave,0,0,0,,,,0,,No verified event records collected,No,No accessible source inspected provided verified district/date-level event rows for this type.
+Flood,0,0,0,,,,0,,No verified event records collected,No,No accessible source inspected provided verified district/date-level event rows for this type.
+Heatwave,0,0,0,,,,0,,No verified event records collected,No,No accessible source inspected provided verified district/date-level event rows for this type.
+Landslide,0,0,0,,,,0,,No verified event records collected,No,No accessible source inspected provided verified district/date-level event rows for this type.
+Windstorm,0,0,0,,,,0,,No verified event records collected,No,No accessible source inspected provided verified district/date-level event rows for this type.

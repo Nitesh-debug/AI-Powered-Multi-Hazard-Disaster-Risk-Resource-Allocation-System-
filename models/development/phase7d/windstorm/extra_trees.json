@@ -1,0 +1,214 @@
+{
+  "created_at_utc": "2026-09-25T17:35:49.433902+00:00",
+  "dataset_path": "data/development/model_ready/phase7c_synthetic_windstorm_dev_v1.csv.gz",
+  "dataset_sha256": "4ad98dd577fa19d4a65de5e707d67ac0affce8236ca22677c084bfc0e0f56707",
+  "dataset_version": "phase7c_v1",
+  "experiment_id": "phase7d_v1_windstorm_extra_trees",
+  "feature_columns": [
+    "precipitation_daily_sum",
+    "rain_daily_sum",
+    "snowfall_daily_sum",
+    "temperature_2m_daily_mean",
+    "temperature_2m_daily_min",
+    "temperature_2m_daily_max",
+    "relative_humidity_2m_daily_mean",
+    "relative_humidity_2m_daily_max",
+    "wind_speed_10m_daily_mean",
+    "wind_speed_10m_daily_max",
+    "wind_gusts_10m_daily_max",
+    "soil_moisture_0_to_7cm_daily_mean",
+    "soil_moisture_7_to_28cm_daily_mean",
+    "soil_moisture_28_to_100cm_daily_mean",
+    "soil_temperature_0_to_7cm_daily_mean",
+    "soil_temperature_7_to_28cm_daily_mean",
+    "soil_temperature_28_to_100cm_daily_mean",
+    "snow_depth_end_of_day",
+    "precipitation_3h_end_of_day",
+    "precipitation_6h_end_of_day",
+    "precipitation_12h_end_of_day",
+    "precipitation_24h_end_of_day",
+    "precipitation_3d_end_of_day",
+    "precipitation_7d_end_of_day",
+    "rain_3h_end_of_day",
+    "rain_6h_end_of_day",
+    "rain_12h_end_of_day",
+    "rain_24h_end_of_day",
+    "rain_3d_end_of_day",
+    "rain_7d_end_of_day",
+    "snowfall_24h_end_of_day",
+    "snowfall_3d_end_of_day",
+    "snowfall_7d_end_of_day",
+    "snow_depth_change_24h_end_of_day",
+    "temperature_mean_6h_daily_mean",
+    "temperature_mean_12h_daily_mean",
+    "temperature_mean_24h_daily_mean",
+    "temperature_min_24h_daily_min",
+    "temperature_max_24h_daily_max",
+    "temperature_min_3d_daily_min",
+    "temperature_max_3d_daily_max",
+    "humidity_mean_6h_daily_mean",
+    "humidity_mean_12h_daily_mean",
+    "humidity_mean_24h_daily_mean",
+    "humidity_max_24h_daily_max",
+    "wind_speed_mean_6h_daily_mean",
+    "wind_speed_mean_24h_daily_mean",
+    "wind_speed_max_24h_daily_max",
+    "wind_gust_max_24h_daily_max",
+    "wind_gust_max_3d_daily_max",
+    "soil_moisture_0_7cm_mean_24h_daily_mean",
+    "soil_moisture_0_7cm_lag_24h_end_of_day",
+    "soil_moisture_0_7cm_change_24h_end_of_day",
+    "soil_moisture_7_28cm_mean_24h_daily_mean",
+    "soil_moisture_7_28cm_lag_24h_end_of_day",
+    "soil_moisture_7_28cm_change_24h_end_of_day",
+    "soil_moisture_28_100cm_mean_24h_daily_mean",
+    "soil_moisture_28_100cm_lag_24h_end_of_day",
+    "soil_moisture_28_100cm_change_24h_end_of_day",
+    "soil_temperature_0_7cm_mean_24h_daily_mean",
+    "soil_temperature_7_28cm_mean_24h_daily_mean",
+    "soil_temperature_28_100cm_mean_24h_daily_mean",
+    "precipitation_lag_1h_end_of_day",
+    "precipitation_lag_3h_end_of_day",
+    "precipitation_lag_6h_end_of_day",
+    "precipitation_lag_24h_end_of_day",
+    "temperature_lag_24h_end_of_day",
+    "weather_code_mode"
+  ],
+  "feature_count": 68,
+  "feature_schema_version": "phase5_68_shifted_weather_v1",
+  "hazard": "windstorm",
+  "imbalance_strategy": "balanced class_weight",
+  "label_scope": "SYNTHETIC_DEVELOPMENT_ONLY",
+  "label_version": "phase7a_v1",
+  "model_path": "models/development/phase7d/windstorm/extra_trees.joblib",
+  "model_sha256": "0e4bfa7b004a6c2003fb5505aa40996985671fa1bc6ff8f2fea3bd6f11688212",
+  "model_size_bytes": 2537125,
+  "parameters": {
+    "class_weight": "balanced",
+    "max_depth": 16,
+    "max_features": "sqrt",
+    "min_samples_leaf": 10,
+    "n_estimators": 200,
+    "n_jobs": 4,
+    "random_state": 42
+  },
+  "random_seed": 42,
+  "software": {
+    "joblib": "1.6.0",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "python": "3.12.14",
+    "scikit_learn": "1.9.1",
+    "scipy": "1.18.1"
+  },
+  "status": "success",
+  "target": "synthetic_windstorm_dev_v1",
+  "test_data_accessed": false,
+  "test_metrics": null,
+  "threshold": 0.5,
+  "top_features": [
+    {
+      "feature": "wind_speed_10m_daily_max",
+      "importance": 0.0374646580843344,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "wind_speed_10m_daily_mean",
+      "importance": 0.031064058966218066,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "wind_speed_mean_6h_daily_mean",
+      "importance": 0.029837247630381453,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "wind_gusts_10m_daily_max",
+      "importance": 0.02969385017400267,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "wind_speed_max_24h_daily_max",
+      "importance": 0.028475199403143678,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "weather_code_mode",
+      "importance": 0.02550561353769152,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "soil_moisture_7_28cm_mean_24h_daily_mean",
+      "importance": 0.021681339700831373,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "wind_gust_max_24h_daily_max",
+      "importance": 0.02134275603966149,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "soil_temperature_28_to_100cm_daily_mean",
+      "importance": 0.020229312921048816,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "soil_moisture_7_to_28cm_daily_mean",
+      "importance": 0.02022458377226324,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "relative_humidity_2m_daily_mean",
+      "importance": 0.0199902105213228,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "humidity_mean_6h_daily_mean",
+      "importance": 0.019749797706389124,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "soil_moisture_0_to_7cm_daily_mean",
+      "importance": 0.019255149933291586,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "soil_moisture_7_28cm_lag_24h_end_of_day",
+      "importance": 0.01917849494027753,
+      "method": "tree impurity importance"
+    },
+    {
+      "feature": "rain_3h_end_of_day",
+      "importance": 0.018981005570401263,
+      "method": "tree impurity importance"
+    }
+  ],
+  "train_period": {
+    "end": "2021-12-31",
+    "start": "2020-01-08"
+  },
+  "train_positives": 121,
+  "train_rows": 14480,
+  "training_seconds": 0.7628792999985308,
+  "validation_metrics": {
+    "brier_score": 0.03954690483434399,
+    "f1": 0.05291005291005291,
+    "false_alert_rate": 0.003919372900335946,
+    "false_negative": 151,
+    "false_positive": 28,
+    "pr_auc_average_precision": 0.07886214666180665,
+    "precision": 0.15151515151515152,
+    "recall": 0.03205128205128205,
+    "roc_auc": 0.7996382117322768,
+    "threshold": 0.5,
+    "true_negative": 7116,
+    "true_positive": 5
+  },
+  "validation_period": {
+    "end": "2022-12-31",
+    "start": "2022-01-01"
+  },
+  "validation_positives": 156,
+  "validation_rows": 7300,
+  "warnings": []
+}

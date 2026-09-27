@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+scikit-learn
+joblib
+streamlit
+streamlit-folium
+folium
+pydeck
+matplotlib
+twilio
+python-dotenv
+fastapi
+uvicorn[standard]
+httpx

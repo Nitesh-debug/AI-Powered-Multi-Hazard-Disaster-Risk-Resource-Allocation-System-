@@ -1,0 +1,138 @@
+{
+  "dataset_version": "phase7c_v1",
+  "experiment_version": "phase7f_v1",
+  "feature_schema_version": "phase5_68_shifted_weather_v1",
+  "label_scope": "SYNTHETIC_DEVELOPMENT_ONLY",
+  "label_version": "phase7a_v1",
+  "model_version": "phase7f_v1",
+  "selected": {
+    "coldwave": {
+      "algorithm": "hist_gradient_boosting",
+      "candidate_id": "phase7d_hist_gradient_boosting",
+      "threshold": 0.1,
+      "threshold_metrics": {
+        "average_precision": 0.09076733617535827,
+        "brier_score": 0.020725216800875256,
+        "f1": 0.13488372093023257,
+        "false_alarm_rate": 0.0344296710986704,
+        "false_negative": 126,
+        "false_positive": 246,
+        "precision": 0.10545454545454545,
+        "recall": 0.1870967741935484,
+        "roc_auc": 0.8141321474525384,
+        "threshold": 0.1,
+        "true_negative": 6899,
+        "true_positive": 29
+      },
+      "validation_average_precision": 0.09076733617535827,
+      "validation_roc_auc": 0.8141321474525384
+    },
+    "flood": {
+      "algorithm": "xgboost",
+      "candidate_id": "phase7f_tuned_xgboost",
+      "threshold": 0.3,
+      "threshold_metrics": {
+        "average_precision": 0.10714048872428487,
+        "brier_score": 0.0048325334727716525,
+        "f1": 0.2,
+        "false_alarm_rate": 0.0037123607864705073,
+        "false_negative": 21,
+        "false_positive": 27,
+        "precision": 0.18181818181818182,
+        "recall": 0.2222222222222222,
+        "roc_auc": 0.784917324859577,
+        "threshold": 0.3,
+        "true_negative": 7246,
+        "true_positive": 6
+      },
+      "validation_average_precision": 0.10714048872428487,
+      "validation_roc_auc": 0.784917324859577
+    },
+    "heatwave": {
+      "algorithm": "extra_trees",
+      "candidate_id": "phase7d_extra_trees",
+      "threshold": 0.5,
+      "threshold_metrics": {
+        "average_precision": 0.45388576719280793,
+        "brier_score": 0.09396033083473851,
+        "f1": 0.4683972911963883,
+        "false_alarm_rate": 0.09790528233151184,
+        "false_negative": 297,
+        "false_positive": 645,
+        "precision": 0.3915094339622642,
+        "recall": 0.5828651685393258,
+        "roc_auc": 0.883630349358384,
+        "threshold": 0.5,
+        "true_negative": 5943,
+        "true_positive": 415
+      },
+      "validation_average_precision": 0.45388576719280793,
+      "validation_roc_auc": 0.883630349358384
+    },
+    "heavy_rain": {
+      "algorithm": "logistic_regression",
+      "candidate_id": "phase7d_logistic_regression",
+      "threshold": 0.8,
+      "threshold_metrics": {
+        "average_precision": 0.17608316144492622,
+        "brier_score": 0.11543775866603934,
+        "f1": 0.23799582463465555,
+        "false_alarm_rate": 0.03655974226082084,
+        "false_negative": 104,
+        "false_positive": 261,
+        "precision": 0.1792452830188679,
+        "recall": 0.35403726708074534,
+        "roc_auc": 0.8337945969084174,
+        "threshold": 0.8,
+        "true_negative": 6878,
+        "true_positive": 57
+      },
+      "validation_average_precision": 0.17608316144492622,
+      "validation_roc_auc": 0.8337945969084174
+    },
+    "landslide": {
+      "algorithm": "extra_trees",
+      "candidate_id": "phase7e_incumbent_refit",
+      "threshold": 0.1,
+      "threshold_metrics": {
+        "average_precision": 0.038654794482967984,
+        "brier_score": 0.004288926768345801,
+        "f1": 0.0,
+        "false_alarm_rate": 0.0,
+        "false_negative": 32,
+        "false_positive": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "roc_auc": 0.8958705971381398,
+        "threshold": 0.1,
+        "true_negative": 7268,
+        "true_positive": 0
+      },
+      "validation_average_precision": 0.038654794482967984,
+      "validation_roc_auc": 0.8958705971381398
+    },
+    "windstorm": {
+      "algorithm": "random_forest",
+      "candidate_id": "phase7e_incumbent_refit",
+      "threshold": 0.2,
+      "threshold_metrics": {
+        "average_precision": 0.08779052488260262,
+        "brier_score": 0.02926403357079037,
+        "f1": 0.12391304347826088,
+        "false_alarm_rate": 0.09896416573348264,
+        "false_negative": 99,
+        "false_positive": 707,
+        "precision": 0.07460732984293193,
+        "recall": 0.36538461538461536,
+        "roc_auc": 0.8022291433370662,
+        "threshold": 0.2,
+        "true_negative": 6437,
+        "true_positive": 57
+      },
+      "validation_average_precision": 0.08779052488260262,
+      "validation_roc_auc": 0.8022291433370662
+    }
+  },
+  "selection_metric": "validation_average_precision",
+  "test_data_accessed": false
+}

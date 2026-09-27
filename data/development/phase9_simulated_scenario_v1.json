@@ -1,0 +1,6019 @@
+{
+  "artifact_type": "simulated_resource_planning_scenario",
+  "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+  "district_order": [
+    "Anantnag",
+    "Bandipora",
+    "Baramulla",
+    "Budgam",
+    "Doda",
+    "Ganderbal",
+    "Jammu",
+    "Kathua",
+    "Kishtwar",
+    "Kulgam",
+    "Kupwara",
+    "Poonch",
+    "Pulwama",
+    "Rajouri",
+    "Ramban",
+    "Reasi",
+    "Samba",
+    "Shopian",
+    "Srinagar",
+    "Udhampur"
+  ],
+  "exposure": [
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "simulated_exposure_index": 0.18,
+      "simulated_population": 42000,
+      "simulated_vulnerability_index": 0.35,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "simulated_exposure_index": 0.55,
+      "simulated_population": 60731,
+      "simulated_vulnerability_index": 0.64,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "simulated_exposure_index": 0.21,
+      "simulated_population": 79462,
+      "simulated_vulnerability_index": 0.26,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "simulated_exposure_index": 0.58,
+      "simulated_population": 98193,
+      "simulated_vulnerability_index": 0.55,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "simulated_exposure_index": 0.24,
+      "simulated_population": 116924,
+      "simulated_vulnerability_index": 0.84,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "simulated_exposure_index": 0.61,
+      "simulated_population": 135655,
+      "simulated_vulnerability_index": 0.46,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "simulated_exposure_index": 0.27,
+      "simulated_population": 154386,
+      "simulated_vulnerability_index": 0.75,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "simulated_exposure_index": 0.64,
+      "simulated_population": 173117,
+      "simulated_vulnerability_index": 0.37,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "simulated_exposure_index": 0.3,
+      "simulated_population": 191848,
+      "simulated_vulnerability_index": 0.66,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "simulated_exposure_index": 0.67,
+      "simulated_population": 210579,
+      "simulated_vulnerability_index": 0.28,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "simulated_exposure_index": 0.33,
+      "simulated_population": 229310,
+      "simulated_vulnerability_index": 0.57,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "simulated_exposure_index": 0.7,
+      "simulated_population": 248041,
+      "simulated_vulnerability_index": 0.86,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "simulated_exposure_index": 0.36,
+      "simulated_population": 266772,
+      "simulated_vulnerability_index": 0.48,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "simulated_exposure_index": 0.73,
+      "simulated_population": 285503,
+      "simulated_vulnerability_index": 0.77,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "simulated_exposure_index": 0.39,
+      "simulated_population": 304234,
+      "simulated_vulnerability_index": 0.39,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "simulated_exposure_index": 0.76,
+      "simulated_population": 322965,
+      "simulated_vulnerability_index": 0.68,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "simulated_exposure_index": 0.42,
+      "simulated_population": 341696,
+      "simulated_vulnerability_index": 0.3,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "simulated_exposure_index": 0.79,
+      "simulated_population": 50427,
+      "simulated_vulnerability_index": 0.59,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "simulated_exposure_index": 0.45,
+      "simulated_population": 69158,
+      "simulated_vulnerability_index": 0.88,
+      "simulation_version": "phase9_simulation_v1"
+    },
+    {
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "simulated_exposure_index": 0.82,
+      "simulated_population": 87889,
+      "simulated_vulnerability_index": 0.5,
+      "simulation_version": "phase9_simulation_v1"
+    }
+  ],
+  "limitations": [
+    "Every population, exposure, vulnerability, facility, stock and capacity value is deterministic demonstration data, not an official statistic or inventory.",
+    "Coordinates are weather lookup reference points, not verified facility locations, district centroids or boundaries.",
+    "Travel times are synthetic estimates from straight-line distance and fixed assumptions; no road graph or live routing service is used."
+  ],
+  "operational_status": "SIMULATION_ONLY_NOT_FOR_DISPATCH",
+  "resources": [
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-response_team-anantnag",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-ambulance-anantnag",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 18,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-medical_kits-anantnag",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 55,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-water_food_supplies-anantnag",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 90,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-shelter-anantnag",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 12,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-hospital-anantnag",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Anantnag",
+      "latitude": 33.73,
+      "longitude": 75.15,
+      "resource_id": "SIM-P9-resource_depot-anantnag",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-response_team-bandipora",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-ambulance-bandipora",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 31,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-medical_kits-bandipora",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 84,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-water_food_supplies-bandipora",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 137,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-shelter-bandipora",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 29,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-hospital-bandipora",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Bandipora",
+      "latitude": 34.42,
+      "longitude": 74.64,
+      "resource_id": "SIM-P9-resource_depot-bandipora",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-response_team-baramulla",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-ambulance-baramulla",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 44,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-medical_kits-baramulla",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 113,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-water_food_supplies-baramulla",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 184,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-shelter-baramulla",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 46,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-hospital-baramulla",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Baramulla",
+      "latitude": 34.2,
+      "longitude": 74.34,
+      "resource_id": "SIM-P9-resource_depot-baramulla",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-response_team-budgam",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-ambulance-budgam",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 57,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-medical_kits-budgam",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 142,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-water_food_supplies-budgam",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 231,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-shelter-budgam",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 63,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-hospital-budgam",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Budgam",
+      "latitude": 34.02,
+      "longitude": 74.65,
+      "resource_id": "SIM-P9-resource_depot-budgam",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-response_team-doda",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-ambulance-doda",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 70,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-medical_kits-doda",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 171,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-water_food_supplies-doda",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 278,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-shelter-doda",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 80,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-hospital-doda",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Doda",
+      "latitude": 33.15,
+      "longitude": 75.55,
+      "resource_id": "SIM-P9-resource_depot-doda",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-response_team-ganderbal",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-ambulance-ganderbal",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 30,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-medical_kits-ganderbal",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 200,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-water_food_supplies-ganderbal",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 325,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-shelter-ganderbal",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 14,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-hospital-ganderbal",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ganderbal",
+      "latitude": 34.23,
+      "longitude": 75.1,
+      "resource_id": "SIM-P9-resource_depot-ganderbal",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 0,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-response_team-jammu",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "unavailable",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-ambulance-jammu",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 43,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-medical_kits-jammu",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 68,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-water_food_supplies-jammu",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 372,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-shelter-jammu",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 31,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-hospital-jammu",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Jammu",
+      "latitude": 32.73,
+      "longitude": 74.87,
+      "resource_id": "SIM-P9-resource_depot-jammu",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-response_team-kathua",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-ambulance-kathua",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 56,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-medical_kits-kathua",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 97,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-water_food_supplies-kathua",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 118,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-shelter-kathua",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 48,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-hospital-kathua",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kathua",
+      "latitude": 32.37,
+      "longitude": 75.52,
+      "resource_id": "SIM-P9-resource_depot-kathua",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-response_team-kishtwar",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 0,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-ambulance-kishtwar",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "unavailable",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 69,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-medical_kits-kishtwar",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 126,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-water_food_supplies-kishtwar",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 165,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-shelter-kishtwar",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 65,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-hospital-kishtwar",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kishtwar",
+      "latitude": 33.31,
+      "longitude": 75.77,
+      "resource_id": "SIM-P9-resource_depot-kishtwar",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-response_team-kulgam",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-ambulance-kulgam",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 29,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-medical_kits-kulgam",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 155,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-water_food_supplies-kulgam",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 212,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-shelter-kulgam",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 82,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-hospital-kulgam",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kulgam",
+      "latitude": 33.65,
+      "longitude": 75.02,
+      "resource_id": "SIM-P9-resource_depot-kulgam",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-response_team-kupwara",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-ambulance-kupwara",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 42,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-medical_kits-kupwara",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 184,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-water_food_supplies-kupwara",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 259,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-shelter-kupwara",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 16,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-hospital-kupwara",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Kupwara",
+      "latitude": 34.53,
+      "longitude": 74.26,
+      "resource_id": "SIM-P9-resource_depot-kupwara",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-response_team-poonch",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-ambulance-poonch",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 55,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-medical_kits-poonch",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 213,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-water_food_supplies-poonch",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 306,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-shelter-poonch",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 33,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-hospital-poonch",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Poonch",
+      "latitude": 33.77,
+      "longitude": 74.09,
+      "resource_id": "SIM-P9-resource_depot-poonch",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-response_team-pulwama",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-ambulance-pulwama",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 68,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-medical_kits-pulwama",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 81,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-water_food_supplies-pulwama",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 353,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-shelter-pulwama",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 50,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-hospital-pulwama",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Pulwama",
+      "latitude": 33.88,
+      "longitude": 74.92,
+      "resource_id": "SIM-P9-resource_depot-pulwama",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 0,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-response_team-rajouri",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "unavailable",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-ambulance-rajouri",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 28,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-medical_kits-rajouri",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 110,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-water_food_supplies-rajouri",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 99,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-shelter-rajouri",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 67,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-hospital-rajouri",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Rajouri",
+      "latitude": 33.38,
+      "longitude": 74.31,
+      "resource_id": "SIM-P9-resource_depot-rajouri",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-response_team-ramban",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-ambulance-ramban",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 41,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-medical_kits-ramban",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 139,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-water_food_supplies-ramban",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 146,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-shelter-ramban",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 84,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-hospital-ramban",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Ramban",
+      "latitude": 33.25,
+      "longitude": 75.25,
+      "resource_id": "SIM-P9-resource_depot-ramban",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-response_team-reasi",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-ambulance-reasi",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 54,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-medical_kits-reasi",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 168,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-water_food_supplies-reasi",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 193,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-shelter-reasi",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 18,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-hospital-reasi",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Reasi",
+      "latitude": 33.08,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-resource_depot-reasi",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-response_team-samba",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-ambulance-samba",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 67,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-medical_kits-samba",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 197,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-water_food_supplies-samba",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 240,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-shelter-samba",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 35,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-hospital-samba",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Samba",
+      "latitude": 32.57,
+      "longitude": 75.12,
+      "resource_id": "SIM-P9-resource_depot-samba",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-response_team-shopian",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 0,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-ambulance-shopian",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "unavailable",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 27,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-medical_kits-shopian",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 65,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-water_food_supplies-shopian",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "limited",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 287,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-shelter-shopian",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 52,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-hospital-shopian",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Shopian",
+      "latitude": 33.71,
+      "longitude": 74.83,
+      "resource_id": "SIM-P9-resource_depot-shopian",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-response_team-srinagar",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-ambulance-srinagar",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 40,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-medical_kits-srinagar",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 94,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-water_food_supplies-srinagar",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 334,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-shelter-srinagar",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 69,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-hospital-srinagar",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Srinagar",
+      "latitude": 34.08,
+      "longitude": 74.8,
+      "resource_id": "SIM-P9-resource_depot-srinagar",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "team_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-response_team-udhampur",
+      "resource_type": "response_team",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "vehicle_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-ambulance-udhampur",
+      "resource_type": "ambulance",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    },
+    {
+      "available_capacity": 53,
+      "capacity_unit": "kit",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-medical_kits-udhampur",
+      "resource_type": "medical_kits",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 80
+    },
+    {
+      "available_capacity": 123,
+      "capacity_unit": "supply_pack",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-water_food_supplies-udhampur",
+      "resource_type": "water_food_supplies",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 240
+    },
+    {
+      "available_capacity": 381,
+      "capacity_unit": "person_capacity",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-shelter-udhampur",
+      "resource_type": "shelter",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 420
+    },
+    {
+      "available_capacity": 86,
+      "capacity_unit": "bed_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-hospital-udhampur",
+      "resource_type": "hospital",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 110
+    },
+    {
+      "available_capacity": 1,
+      "capacity_unit": "depot_slot",
+      "coordinate_semantics": "weather reference point used as an illustrative simulated node; not a verified facility location",
+      "data_scope": "SIMULATED_DEVELOPMENT_ONLY",
+      "district": "Udhampur",
+      "latitude": 32.92,
+      "longitude": 75.13,
+      "resource_id": "SIM-P9-resource_depot-udhampur",
+      "resource_type": "resource_depot",
+      "simulation_version": "phase9_simulation_v1",
+      "status": "available",
+      "suitable_hazards": [
+        "flood",
+        "heavy_rain",
+        "landslide",
+        "heatwave",
+        "coldwave",
+        "windstorm"
+      ],
+      "total_capacity": 1
+    }
+  ],
+  "simulation_version": "phase9_simulation_v1",
+  "travel_time_matrix": [
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 225.0
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 238.7
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 146.9
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 199.4
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 144.7
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 289.5
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 371.1
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 196.6
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 49.2
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 302.9
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 238.6
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 86.8
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 212.2
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 148.0
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 190.9
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 318.4
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 79.0
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 137.8
+    },
+    {
+      "from_district": "Anantnag",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 216.3
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 221.0
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 98.4
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 126.9
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 389.3
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 132.1
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 445.0
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 577.4
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 381.0
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 233.8
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 94.5
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 223.1
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 158.6
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 293.8
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 332.6
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 362.5
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 511.9
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 203.1
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 121.9
+    },
+    {
+      "from_district": "Bandipora",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 412.7
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 230.7
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 94.4
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 88.8
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 390.4
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 168.2
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 409.8
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 559.2
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 396.1
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 229.6
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 102.7
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 149.5
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 163.0
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 235.9
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 324.2
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 329.5
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 460.9
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 187.1
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 114.6
+    },
+    {
+      "from_district": "Baramulla",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 390.4
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 157.9
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 118.9
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 107.8
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 319.4
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 123.9
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 357.7
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 473.1
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 323.3
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 135.5
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 177.6
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 146.4
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 90.2
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 189.1
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 255.7
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 252.3
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 403.4
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 96.6
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 55.1
+    },
+    {
+      "from_district": "Budgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 306.0
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 183.4
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 400.3
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 382.4
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 315.4
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 313.0
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 190.4
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 219.7
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 71.1
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 190.0
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 452.8
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 366.9
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 258.9
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 288.4
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 97.8
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 171.6
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 201.9
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 225.1
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 312.2
+    },
+    {
+      "from_district": "Doda",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 122.1
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 147.7
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 116.1
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 179.2
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 138.9
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 309.0
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 402.0
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 509.9
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 289.8
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 175.6
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 207.3
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 269.2
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 110.9
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 298.4
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 264.5
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 322.3
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 434.6
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 167.1
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 84.8
+    },
+    {
+      "from_district": "Ganderbal",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 355.6
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 288.5
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 448.0
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 416.8
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 345.7
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 205.4
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 398.0
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 178.9
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 265.3
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 247.4
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 498.1
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 322.5
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 314.0
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 213.1
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 175.3
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 97.5
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 86.3
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 279.6
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 362.0
+    },
+    {
+      "from_district": "Jammu",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 102.7
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 366.1
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 576.4
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 539.2
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 480.1
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 207.7
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 501.9
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 174.9
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 275.2
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 360.9
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 640.5
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 486.1
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 433.1
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 380.7
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 258.4
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 248.5
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 125.9
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 385.6
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 486.5
+    },
+    {
+      "from_district": "Kathua",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 176.1
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 187.6
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 399.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 395.1
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 326.3
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 78.1
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 300.8
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 257.3
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 271.2
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 206.3
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 458.2
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 399.2
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 243.4
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 334.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 122.7
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 230.6
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 244.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 245.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 293.0
+    },
+    {
+      "from_district": "Kishtwar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 188.8
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 59.2
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 224.8
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 224.6
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 134.5
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 193.0
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 159.6
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 258.4
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 352.9
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 202.3
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 295.4
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 207.3
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 81.3
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 195.6
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 130.9
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 179.6
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 292.8
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 71.1
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 134.9
+    },
+    {
+      "from_district": "Kulgam",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 214.3
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 285.9
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 104.5
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 93.7
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 172.6
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 474.8
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 210.3
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 505.1
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 628.5
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 473.2
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 291.4
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 211.8
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 242.1
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 307.0
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 412.2
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 401.3
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 555.3
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 252.9
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 184.3
+    },
+    {
+      "from_district": "Kupwara",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 460.4
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 240.6
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 229.1
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 136.5
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 160.4
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 361.9
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 268.2
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 325.5
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 493.1
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 387.2
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 222.3
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 207.8
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 187.8
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 130.7
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 288.6
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 255.7
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 384.2
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 176.4
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 199.5
+    },
+    {
+      "from_district": "Poonch",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 327.4
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 84.8
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 160.6
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 169.0
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 77.2
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 249.9
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 105.9
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 313.0
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 413.1
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 250.4
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 92.3
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 234.1
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 206.8
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 209.4
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 191.0
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 231.6
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 351.2
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 73.3
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 70.9
+    },
+    {
+      "from_district": "Pulwama",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 273.4
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 229.2
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 291.8
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 237.9
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 195.1
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 298.4
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 289.4
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 231.1
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 379.7
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 337.0
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 179.6
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 318.0
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 122.7
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 205.4
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 225.7
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 145.5
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 291.2
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 148.7
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 227.2
+    },
+    {
+      "from_district": "Rajouri",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 219.4
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 138.0
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 349.6
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 322.2
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 257.7
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 80.8
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 274.5
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 166.3
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 253.4
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 121.7
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 133.9
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 396.2
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 299.6
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 183.0
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 221.7
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 117.4
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 204.3
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 164.2
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 259.8
+    },
+    {
+      "from_district": "Ramban",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 103.8
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 199.9
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 352.5
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 323.5
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 250.3
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 173.6
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 328.3
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 107.5
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 262.5
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 225.6
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 178.6
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 404.3
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 262.7
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 219.6
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 160.5
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 113.4
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 156.9
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 184.4
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 266.7
+    },
+    {
+      "from_district": "Reasi",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 98.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 323.4
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 497.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 473.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 397.4
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 199.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 436.6
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 92.3
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 112.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 258.0
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 287.8
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 554.3
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 387.2
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 358.2
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 279.2
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 196.3
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 152.9
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 304.7
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 409.4
+    },
+    {
+      "from_district": "Samba",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 119.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 80.0
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 208.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 173.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 109.6
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 219.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 165.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 258.6
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 391.6
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 232.0
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 62.1
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 270.9
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 175.4
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 76.3
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 155.7
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 175.2
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 176.4
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 323.7
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 120.4
+    },
+    {
+      "from_district": "Shopian",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 225.0
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 134.8
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 122.9
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 119.6
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 64.1
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 302.2
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 101.8
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 360.0
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 488.5
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 299.0
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 144.9
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 175.3
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 194.5
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 69.9
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 230.2
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 243.8
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 277.7
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 401.4
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 116.4
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 8.0
+    },
+    {
+      "from_district": "Srinagar",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 324.5
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Anantnag",
+      "travel_time_minutes": 232.3
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Bandipora",
+      "travel_time_minutes": 409.7
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Baramulla",
+      "travel_time_minutes": 391.4
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Budgam",
+      "travel_time_minutes": 311.0
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Doda",
+      "travel_time_minutes": 131.1
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ganderbal",
+      "travel_time_minutes": 345.6
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Jammu",
+      "travel_time_minutes": 96.7
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kathua",
+      "travel_time_minutes": 174.1
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kishtwar",
+      "travel_time_minutes": 190.8
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kulgam",
+      "travel_time_minutes": 197.3
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Kupwara",
+      "travel_time_minutes": 470.4
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Poonch",
+      "travel_time_minutes": 318.4
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Pulwama",
+      "travel_time_minutes": 268.4
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Rajouri",
+      "travel_time_minutes": 218.4
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Ramban",
+      "travel_time_minutes": 106.8
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Reasi",
+      "travel_time_minutes": 105.9
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Samba",
+      "travel_time_minutes": 107.1
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Shopian",
+      "travel_time_minutes": 240.0
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Srinagar",
+      "travel_time_minutes": 320.5
+    },
+    {
+      "from_district": "Udhampur",
+      "route_status": "SIMULATED_ESTIMATE_NOT_ROUTED",
+      "simulation_version": "phase9_simulation_v1",
+      "to_district": "Udhampur",
+      "travel_time_minutes": 8.0
+    }
+  ]
+}

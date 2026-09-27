@@ -1,0 +1,18 @@
+metric,value
+phase,Phase 5: ML dataset design
+source_dataset,data/processed/daily_flood_dataset.csv
+source_dataset_rows,42620
+source_dataset_columns,77
+district_count,20
+date_start,2020-01-01
+date_end,2025-10-31
+prediction_lead_days,1
+lead_eligible_district_days,42600
+verified_flood_positives,32
+unknown_no_verified_event_days,42588
+confirmed_negative_days,0
+flood_phase4_label_status,VERIFIED_LABELS_AVAILABLE
+supervised_binary_training_ready,No
+synthetic_labels_created,No
+processed_data_modified,No
+ml_models_trained,No

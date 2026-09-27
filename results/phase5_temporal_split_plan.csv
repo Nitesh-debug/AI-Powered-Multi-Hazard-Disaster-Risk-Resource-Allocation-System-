@@ -1,0 +1,4 @@
+split,feature_reference_start_date,feature_reference_end_date,target_start_date,target_end_date,district_days,district_count,verified_flood_positives,unknown_no_verified_event_days,confirmed_negative_days,supervised_binary_ready
+train,2020-01-01,2021-12-30,2020-01-02,2021-12-31,14600,20,17,14583,0,No
+validation,2021-12-31,2022-12-30,2022-01-01,2022-12-31,7300,20,8,7292,0,No
+test,2022-12-31,2025-10-30,2023-01-01,2025-10-31,20700,20,7,20693,0,No

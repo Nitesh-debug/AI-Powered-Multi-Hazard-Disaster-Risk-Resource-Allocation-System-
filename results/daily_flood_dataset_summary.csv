@@ -1,0 +1,12 @@
+metric,value
+total_district_days,42620
+verified_flood_positive_district_days,32
+unknown_no_verified_event_days,42588
+district_count,20
+verified_event_district_count,15
+earliest_date,2020-01-01
+latest_date,2025-10-31
+duplicate_district_date_rows,0
+missing_value_cells,128544
+verified_event_records_used,29
+normalized_positive_combinations,32

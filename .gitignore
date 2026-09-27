@@ -1,0 +1,31 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.env
+.env.*
+!.env.example
+*.env
+manual_keys.txt
+config.py
+step15_alert_system.py
+.DS_Store
+
+# Local source/processed data are intentionally kept outside GitHub.
+data/raw/
+data/processed/
+data/*.csv
+data/*.db
+data/runtime/
+
+# Keep static research reports and validation outputs; ignore local demo snapshots.
+results/predictions*.csv
+results/allocation*.json
+.venv/
+.uv-cache/
+.frontend-build/
+.frontend-vite-cache/
+frontend/node_modules/
+frontend/dist/
+scripts/jk_weather_history_enhanced.csv

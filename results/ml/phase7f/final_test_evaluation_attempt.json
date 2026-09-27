@@ -1,0 +1,12 @@
+{
+  "completed_at_utc": "2026-09-27T07:52:15.031871+00:00",
+  "experiment_version": "phase7f_v1",
+  "hazards_evaluated": 6,
+  "metrics_artifact": "results/ml/phase7f/final_test_metrics.csv",
+  "rows_per_hazard": 20700,
+  "selection_metric": "validation_average_precision",
+  "started_at_utc": "2026-09-27T07:52:14.919502+00:00",
+  "status": "completed_once",
+  "test_data_accessed": true,
+  "thresholds_frozen_from": "validation"
+}

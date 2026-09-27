@@ -1,0 +1,78 @@
+source_column,role,phase6_baseline_action,leakage_note
+district,key,carry,Used to join source rows and define target dates; not an input feature.
+date,key,carry,Used to join source rows and define target dates; not an input feature.
+latitude,static_context,optional_context_after_review,"Static geography may help spatial risk scoring, but sparse labels can make it memorize districts."
+longitude,static_context,optional_context_after_review,"Static geography may help spatial risk scoring, but sparse labels can make it memorize districts."
+precipitation_daily_sum,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+rain_daily_sum,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+snowfall_daily_sum,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+temperature_2m_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+temperature_2m_daily_min,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+temperature_2m_daily_max,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+relative_humidity_2m_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+relative_humidity_2m_daily_max,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+wind_speed_10m_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+wind_speed_10m_daily_max,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+wind_gusts_10m_daily_max,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_moisture_0_to_7cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_moisture_7_to_28cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_moisture_28_to_100cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_temperature_0_to_7cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_temperature_7_to_28cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+soil_temperature_28_to_100cm_daily_mean,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+snow_depth_end_of_day,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+precipitation_3h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_6h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_12h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_3d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_7d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_3h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_6h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_12h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_3d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+rain_7d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+snowfall_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+snowfall_3d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+snowfall_7d_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+snow_depth_change_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_mean_6h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_mean_12h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_min_24h_daily_min,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_max_24h_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_min_3d_daily_min,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_max_3d_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+humidity_mean_6h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+humidity_mean_12h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+humidity_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+humidity_max_24h_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+wind_speed_mean_6h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+wind_speed_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+wind_speed_max_24h_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+wind_gust_max_24h_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+wind_gust_max_3d_daily_max,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_0_7cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_0_7cm_lag_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_0_7cm_change_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_7_28cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_7_28cm_lag_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_7_28cm_change_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_28_100cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_28_100cm_lag_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_moisture_28_100cm_change_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_temperature_0_7cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_temperature_7_28cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+soil_temperature_28_100cm_mean_24h_daily_mean,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_lag_1h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_lag_3h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_lag_6h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+precipitation_lag_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+temperature_lag_24h_end_of_day,engineered_weather_feature,shift_by_1_day,Past-looking lag/rolling feature from feature_reference_date; validate warm-up missingness.
+weather_code_mode,daily_weather_feature,shift_by_1_day,Use from feature_reference_date only; never same target date for forecasting.
+flood_event_label,target,exclude_from_features,Target/status fields must never be used as model inputs.
+label_status,target,exclude_from_features,Target/status fields must never be used as model inputs.
+label_source,label_provenance,exclude_from_features,Source provenance is for audit only and would leak the label.
+label_source_url,label_provenance,exclude_from_features,Source provenance is for audit only and would leak the label.
+flood_event_ids,label_provenance,exclude_from_features,Source provenance is for audit only and would leak the label.

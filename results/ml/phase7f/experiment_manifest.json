@@ -1,0 +1,80 @@
+{
+  "candidate_count": 48,
+  "candidate_set": [
+    "phase7d_logistic_regression",
+    "phase7d_decision_tree",
+    "phase7d_random_forest",
+    "phase7d_extra_trees",
+    "phase7d_hist_gradient_boosting",
+    "phase7e_incumbent_refit",
+    "phase7f_tuned_xgboost",
+    "phase7f_tuned_lightgbm"
+  ],
+  "dataset_sha256": {
+    "coldwave": "194a57af996e577ec734246a7490f7b04a9da92229ccef95398a3472ce7282ec",
+    "flood": "1f5a1863ecc9d5f90613fc3a5e2622711a60fd4db142662a870e0073dc53ef6e",
+    "heatwave": "6be7fd7c7f05ff9bc5583f17c9bb5c5143c7a8e15b3ccfc354eca43a51717537",
+    "heavy_rain": "ce1132ffc0c071abcfacf0892b2009ed86fc0a2e5bf13c5fa7b3d6bb5d251d05",
+    "landslide": "d8e1936cac26329019ceaaf943a76b0dc315764781209c1b39e2ce96890fc05e",
+    "windstorm": "4ad98dd577fa19d4a65de5e707d67ac0affce8236ca22677c084bfc0e0f56707"
+  },
+  "dataset_version": "phase7c_v1",
+  "expanding_date_folds": 3,
+  "experiment_version": "phase7f_v1",
+  "feature_schema_version": "phase5_68_shifted_weather_v1",
+  "hazards": [
+    "flood",
+    "heavy_rain",
+    "landslide",
+    "heatwave",
+    "coldwave",
+    "windstorm"
+  ],
+  "label_scope": "SYNTHETIC_DEVELOPMENT_ONLY",
+  "label_version": "phase7a_v1",
+  "legacy_algorithms": [
+    "logistic_regression",
+    "decision_tree",
+    "random_forest",
+    "extra_trees",
+    "hist_gradient_boosting"
+  ],
+  "model_version": "phase7f_v1",
+  "random_seed": 42,
+  "selected_candidates": {
+    "coldwave": "phase7d_hist_gradient_boosting",
+    "flood": "phase7f_tuned_xgboost",
+    "heatwave": "phase7d_extra_trees",
+    "heavy_rain": "phase7d_logistic_regression",
+    "landslide": "phase7e_incumbent_refit",
+    "windstorm": "phase7e_incumbent_refit"
+  },
+  "selection_status": "frozen_validation_only",
+  "software": {
+    "joblib": "1.5.3",
+    "lightgbm": "4.7.0",
+    "numpy": "2.4.1",
+    "pandas": "2.3.3",
+    "python": "3.11.14",
+    "scikit_learn": "1.8.0",
+    "scipy": "1.17.0",
+    "xgboost": "3.2.0"
+  },
+  "test_data_accessed": false,
+  "thresholds": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "trials_per_tuned_candidate": 20,
+  "tuned_algorithms": [
+    "xgboost",
+    "lightgbm"
+  ]
+}
